@@ -1,2 +1,7 @@
 # 11d
-Šis ir pirmais izmēģinājuma repozitorijs 11.d klases stundai
+Izveido jaunu zaru(branch) <br>
+Nosauc to savā vārdā <br>
+Izpildi uzdevumu, pielietojot moduļus un funkcijas <br>
+Eksportē izmaiņas uz GitHub (push)
+# Uzdevums
+Programma pieprasa ievadīt kvadrāta diagonāles garumu centimetros. <br> Tiek aprēķināts kvadrāta laukums.
