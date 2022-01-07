@@ -1,3 +1,3 @@
-import lauk
+import virkne
 
-print(lauk.laukums())
+print(virkne.virkne(1,7,12))
