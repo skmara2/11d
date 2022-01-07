@@ -1,3 +1,5 @@
-import kvadrats
-d=float(input("Ievadi diagonāles garumu cm: "))
-print("Kvadrāta laukums ir ",kvadrats.laukums(d),"cm")
+import elementi
+x=int(input("Ievadi skaitli! "))
+y=int(input("Ievadi skaitli! "))
+z=int(input("Ievadi skaitli lidz kuram rēķināt! "))
+print("Summa ir ",elementi.skaitlis(x,y,z))
