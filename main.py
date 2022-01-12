@@ -1,3 +1,3 @@
-import stabins
-skaitlis=input("Ievadi daudzciparu skaitli! ")
-stabins.total(skaitlis)
+import funkcija
+skaitlis=input("ievadi daudzciparu skaitli: ")
+print(funkcija.maz(skaitlis))
