@@ -1,4 +1,5 @@
+import stabins
+skaitlis=(input("Uzraksti daudzciparu skaitli"))
+stabins.total(skaitlis)
 
-import kvadrats
-d=float(input("Ievadi diagonāli"))
-print("kvadrāta laukums ir",kvadrats.laukums(d))
+
