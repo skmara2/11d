@@ -1,5 +1,10 @@
-def stabins(a,i):
-  if i==len(str(a))-1:
-    return int(str(a)[-1])
-  else:
-    return int(str(a)[i:])+stabins(a,i+1)
+def mazakais(l):
+  ans = ''
+  for f in sorted(l):
+    if f!=0:
+      ans+=str(f)
+      l.remove(f)
+      break
+  for k in sorted(l):
+    ans+=str(k)
+  return ans

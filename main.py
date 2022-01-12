@@ -1,3 +1,4 @@
 import mod
-sk=int(input())
-print(mod.stabins(sk,0))
+sk=str(input())
+a = ([int(f) for f in sk])
+print(mod.mazakais(a))
